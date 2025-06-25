@@ -1,0 +1,3 @@
+
+MAX_INT = 1000
+DEBUG = True
